@@ -25,7 +25,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> &nbsp;About Me
 
 ```yaml
-My name is Phan Duc Luong. I am a Management Information Systems (MIS) student at the University of Transport Ho Chi Minh City (UTH) who is interested in pursuing a career as a Business Analyst (BA) and Data Analyst (DA).
+My name is Phan Duc Luong. I am a Management Information Systems student at the University of Transport Ho Chi Minh City 
+who is interested in pursuing a career as a Business Analyst (BA) and Data Analyst (DA).
 ```
 
 ---
