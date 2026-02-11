@@ -43,21 +43,6 @@
 
 <br/>
 
-<!-- ===== ACHIEVEMENTS ===== -->
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🏆_ACHIEVEMENTS-238636?style=for-the-badge" alt="Achievements"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/phuongduclan?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=phuongduclan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</div>
-
-<br/>
 
 <!-- ===== FEATURED PROJECTS ===== -->
 
@@ -91,14 +76,13 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 </p>
 
 | Feature | Detail |
 |:---|:---|
 | 🏛️ **Architecture** | Clean Architecture — Domain / Service / Infrastructure layers |
-| 🤖 **AI Features** | RAG with ChromaDB, LLM (OpenAI & Gemini), Speech-to-Text |
+| 🤖 **AI Features** | RAG with ChromaDB, Gemini LLM, Speech-to-Text |
 | 🌐 **Full-stack** | Flask REST API + Next.js 14 Web Client |
 | 📦 **Deployment** | Live on [bizflow-six.vercel.app](https://bizflow-six.vercel.app/) |
 | 👥 **Team** | 8 Contributors |
@@ -178,33 +162,10 @@
 | **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white) |
+| **AI / ML** | ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white) |
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 </div>
-
-<br/>
-
-<!-- ===== GITHUB STATS ===== -->
-
-<div align="center">
-  <img src="https://img.shields.io/badge/📊_GITHUB_STATS-1f6feb?style=for-the-badge" alt="Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phuongduclan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongduclan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=phuongduclan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
-</div>
-
-<br/>
 
 <br/>
 
@@ -220,19 +181,7 @@
 
 <br/>
 
-<!-- ===== ACTIVITY GRAPH ===== -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuongduclan&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area_color=1f6feb&area=true" alt="Activity Graph"/>
-</div>
-
-<br/>
-
 <!-- ===== FOOTER ===== -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
 
 <br/>
 
