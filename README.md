@@ -21,22 +21,41 @@
 
 <br/>
 
-```yaml
-# 👨‍💻 about_me.yaml
+<div align="center">
+  <img src="https://img.shields.io/badge/👋_ABOUT_ME-1f6feb?style=for-the-badge" alt="About Me"/>
+</div>
 
-name: "Phan Đức Lương"
-role: "Backend Developer & MIS Student"
-university: "University of Transport Ho Chi Minh City (UTH)"
-major: "Management Information Systems (MIS)"
+<br/>
 
-current_focus:
-  - "🔥 Building production-ready backends with Flask & Django"
-  - "🏗️ Applying Clean Architecture & Domain-Driven Design"
-  - "🤖 Integrating AI features (RAG, LLM, Speech-to-Text)"
-  - "📊 Digital Transformation for Household Businesses"
+<div align="center">
+  <p>
+    My name is <b>Phan Đức Lương</b>. I am a <b>Management Information Systems</b> student<br/>
+    at the <b>University of Transport Ho Chi Minh City</b> 🎓<br/>
+    who is interested in pursuing a career as a <b>Business Analyst</b> and <b>Data Analyst</b> 📊
+  </p>
+</div>
 
-motto: "Code is not just logic — it's architecture, it's art."
-```
+<div align="center">
+
+  `🔥 Flask` `💚 Django` `🏗️ Clean Architecture` `🤖 AI Integration` `📈 Data Analysis`
+
+</div>
+
+<br/>
+
+<!-- ===== ACHIEVEMENTS ===== -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆_ACHIEVEMENTS-238636?style=for-the-badge" alt="Achievements"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/phuongduclan?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=phuongduclan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</div>
 
 <br/>
 
@@ -48,74 +67,50 @@ motto: "Code is not just logic — it's architecture, it's art."
 
 <br/>
 
+<!-- 🔥 FLASK PROJECT -->
+
+<div align="center">
+<a href="https://github.com/phuongduclan/platform-digital-transformation-household-businesses">
+<img src="https://img.shields.io/badge/🔥_FLASK-Digital_Transformation_Platform-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask Project"/>
+</a>
+</div>
+
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-<h3 align="center">🔥 Flask — Clean Architecture</h3>
+<h3>🏗️ Platform Digital Transformation for Household Businesses</h3>
 
-<div align="center">
+> Nền tảng chuyển đổi số hộ kinh doanh — Full-stack platform với **8 contributors**, deployed on **Vercel**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</p>
+
+| Feature | Detail |
+|:---|:---|
+| 🏛️ **Architecture** | Clean Architecture — Domain / Service / Infrastructure layers |
+| 🤖 **AI Features** | RAG with ChromaDB, LLM (OpenAI & Gemini), Speech-to-Text |
+| 🌐 **Full-stack** | Flask REST API + Next.js 14 Web Client |
+| 📦 **Deployment** | Live on [bizflow-six.vercel.app](https://bizflow-six.vercel.app/) |
+| 👥 **Team** | 8 Contributors |
+
+<p align="center">
   <a href="https://github.com/phuongduclan/platform-digital-transformation-household-businesses">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phuongduclan&repo=platform-digital-transformation-household-businesses&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e" alt="Flask Repo"/>
+    <img src="https://img.shields.io/badge/🔗_View_Repository-58a6ff?style=for-the-badge&logoColor=white" alt="View Repo"/>
   </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <b>Nền tảng chuyển đổi số hộ kinh doanh</b><br/>
-  <sub>Full-stack platform · 8 contributors · Live on Vercel</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-</p>
-
-**Highlights:**
-- 🏛️ **Clean Architecture** — Domain / Service / Infra layers
-- 🤖 **AI-powered** — RAG with ChromaDB, LLM, Speech-to-Text
-- 🌐 **Full-stack** — Flask API + Next.js Web Client
-- 📦 **Production** — Deployed on Vercel
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">💚 Django — SQL Server</h3>
-
-<div align="center">
-  <a href="https://github.com/phuongduclan/Django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phuongduclan&repo=Django&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e" alt="Django Repo"/>
+  <a href="https://bizflow-six.vercel.app/">
+    <img src="https://img.shields.io/badge/🌍_Live_Demo-238636?style=for-the-badge&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <b>Django với Microsoft SQL Server</b><br/>
-  <sub>Backend project · Django ORM · Enterprise DB</sub>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/ODBC_17-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="ODBC"/>
-</p>
-
-**Highlights:**
-- 🐍 **Django ORM** — Code-first database modeling
-- 🗄️ **SQL Server** — Enterprise-grade MSSQL integration
-- ⚙️ **mssql-django** — ODBC Driver 17 connectivity
-- 📐 **MVT Pattern** — Model-View-Template architecture
 
 </td>
 </tr>
@@ -124,50 +119,44 @@ motto: "Code is not just logic — it's architecture, it's art."
 
 <br/>
 
-<!-- ===== FRAMEWORK COMPARISON ===== -->
+<!-- 💚 DJANGO PROJECT -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔀_FLASK_vs_DJANGO_—_My_Experience-161b22?style=for-the-badge" alt="Comparison"/>
+<a href="https://github.com/phuongduclan/Django">
+<img src="https://img.shields.io/badge/💚_DJANGO-SQL_Server_Backend-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" alt="Django Project"/>
+</a>
 </div>
-
-<br/>
 
 <div align="center">
 <table>
 <tr>
-<th>⚡ Aspect</th>
-<th>🔥 Flask</th>
-<th>💚 Django</th>
-</tr>
-<tr>
-<td><b>Philosophy</b></td>
-<td>Micro-framework, tự do lắp ghép</td>
-<td>Batteries-included, có sẵn mọi thứ</td>
-</tr>
-<tr>
-<td><b>ORM</b></td>
-<td>SQLAlchemy (linh hoạt)</td>
-<td>Django ORM (tích hợp sẵn)</td>
-</tr>
-<tr>
-<td><b>Architecture</b></td>
-<td>Clean Architecture tùy chỉnh</td>
-<td>MVT (Model-View-Template)</td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td>PostgreSQL + Redis</td>
-<td>Microsoft SQL Server</td>
-</tr>
-<tr>
-<td><b>Best For</b></td>
-<td>Dự án lớn, kiến trúc phức tạp</td>
-<td>Phát triển nhanh, admin panel</td>
-</tr>
-<tr>
-<td><b>My Project</b></td>
-<td>Digital Transformation Platform</td>
-<td>Enterprise Backend</td>
+<td>
+
+<h3>🐍 Django with Microsoft SQL Server</h3>
+
+> Backend project sử dụng **Django ORM** kết nối **Microsoft SQL Server** — Enterprise-grade database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/ODBC_17-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ODBC"/>
+</p>
+
+| Feature | Detail |
+|:---|:---|
+| 🐍 **ORM** | Django ORM — Code-first database modeling |
+| 🗄️ **Database** | Microsoft SQL Server with ODBC Driver 17 |
+| 📐 **Pattern** | MVT (Model-View-Template) architecture |
+| ⚙️ **Driver** | mssql-django for enterprise connectivity |
+
+<p align="center">
+  <a href="https://github.com/phuongduclan/Django">
+    <img src="https://img.shields.io/badge/🔗_View_Repository-58a6ff?style=for-the-badge&logoColor=white" alt="View Repo"/>
+  </a>
+</p>
+
+</td>
 </tr>
 </table>
 </div>
@@ -216,12 +205,6 @@ motto: "Code is not just logic — it's architecture, it's art."
 </div>
 
 <br/>
-
-<!-- ===== TROPHIES ===== -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phuongduclan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
 
 <br/>
 
