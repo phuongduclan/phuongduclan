@@ -25,24 +25,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> &nbsp;About Me
 
 ```yaml
-name: Phan Đức Lương
-located_in: Việt Nam 🇻🇳
-university: University of Transport Ho Chi Minh City (UTH)
-major: Management Information Systems (MIS)
-
-career_goals:
-  - Business Analyst
-  - Data Analyst
-  - Web Developer
-
-currently:
-  - 🔭 Building a Digital Transformation Platform for Household Businesses
-  - 🌱 Learning Clean Architecture, AI (RAG, LLM), and Data Analytics
-  - 🤖 Working with OpenAI/Gemini LLM, ChromaDB, Speech-to-Text
-  - 💼 Open to internship & collaboration opportunities
-  - 🌐 Deployed project: https://bizflow-six.vercel.app/
-
-fun_fact: "I believe technology can transform every small business 🚀"
+My name is Phan Duc Luong. I am a Management Information Systems (MIS) student at the University of Transport Ho Chi Minh City (UTH) who is interested in pursuing a career as a Business Analyst (BA) and Data Analyst (DA).
 ```
 
 ---
